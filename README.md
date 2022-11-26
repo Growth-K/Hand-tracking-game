@@ -8,4 +8,3 @@ Open-cv
 mediapipe
 pygame
 numpy
-numpy
